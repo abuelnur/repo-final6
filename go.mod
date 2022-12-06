@@ -1,6 +1,6 @@
 module github.com/wss-qa/pubmod
 
-go 1.18
+go 1.19
 
 require github.com/tdewolff/minify/v2 v2.11.2 // direct
 
